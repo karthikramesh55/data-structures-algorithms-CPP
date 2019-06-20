@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1560282970 source:c:\users\karthik\documents\matlab (codeblocks files)\doublylinkedlist\main.cpp
+	<iostream>
+	<cstdlib>
+

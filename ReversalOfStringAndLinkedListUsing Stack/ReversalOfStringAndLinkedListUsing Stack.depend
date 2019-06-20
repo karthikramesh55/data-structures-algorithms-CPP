@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1560592062 source:c:\users\karthik\documents\matlab (codeblocks files)\reversalofstringandlinkedlistusing stack\main.cpp
+	<iostream>
+	<stack>
+	<string>
+	<cstdlib>
+

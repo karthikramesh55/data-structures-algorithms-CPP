@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1561015673 source:c:\users\karthik\documents\matlab (codeblocks files)\checkingforbalancedparanthesesusingstacks\main.cpp
+	<iostream>
+	<cstdlib>
+	<stack>
+	<string>
+	"stdio.h"
+
