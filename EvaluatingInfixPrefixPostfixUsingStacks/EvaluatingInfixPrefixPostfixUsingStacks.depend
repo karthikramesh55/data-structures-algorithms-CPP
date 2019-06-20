@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1561047732 source:c:\users\karthik\documents\matlab (codeblocks files)\evaluatinginfixprefixpostfixusingstacks\main.cpp
+	<iostream>
+	<cstdlib>
+	<stack>
+	<string>
+	"stdio.h"
+
