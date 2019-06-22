@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1561195851 source:c:\users\karthik\documents\matlab (codeblocks files)\infixtopostfixconversion\main.cpp
+	<iostream>
+	<cstdlib>
+	<stack>
+	"stdio.h"
+
